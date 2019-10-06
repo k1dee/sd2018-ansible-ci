@@ -12,3 +12,4 @@ Software Design 用のインフラCIサンプルリポジトリです。
 [https://www.katacoda.com/irixjp/scenarios/ansible-playbook-ci-101](https://www.katacoda.com/irixjp/scenarios/ansible-playbook-ci-101)
 
 # comment
+2019/10/06 14:45
